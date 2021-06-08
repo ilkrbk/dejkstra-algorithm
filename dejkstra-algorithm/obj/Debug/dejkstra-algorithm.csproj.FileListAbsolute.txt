@@ -1,0 +1,6 @@
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/dejkstra-algorithm/dejkstra-algorithm/obj/Debug/dejkstra-algorithm.csprojAssemblyReference.cache
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/dejkstra-algorithm/dejkstra-algorithm/obj/Debug/dejkstra-algorithm.csproj.CoreCompileInputs.cache
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/dejkstra-algorithm/dejkstra-algorithm/bin/Debug/dejkstra_algorithm.exe
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/dejkstra-algorithm/dejkstra-algorithm/bin/Debug/dejkstra_algorithm.pdb
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/dejkstra-algorithm/dejkstra-algorithm/obj/Debug/dejkstra_algorithm.exe
+/Users/ilkrbk/Documents/KPI-study/1_class/DS/dejkstra-algorithm/dejkstra-algorithm/obj/Debug/dejkstra_algorithm.pdb
